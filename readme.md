@@ -1,5 +1,4 @@
 # Maze-Mania
-
 Game in process of production
 Many features and levels are not yet implemented.
 Character choices and switches are limited until completion.
